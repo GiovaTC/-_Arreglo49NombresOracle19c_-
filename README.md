@@ -6,7 +6,6 @@ Arreglo49NombresOracle19c:
 <img width="2551" height="1077" alt="image" src="https://github.com/user-attachments/assets/42cd0d71-d0a2-4a8d-9272-aee73e510136" />   
 
 <img width="2553" height="1079" alt="image" src="https://github.com/user-attachments/assets/00244980-d06a-4c07-949c-1b2cf1543466" />        
-```
 Proyecto de consola desarrollado en Java 21, Maven, JDBC e Oracle Database 19c. El programa imprime un arreglo de 49 nombres,
 recorre sus elementos y almacena cada nombre en Oracle mediante un procedimiento almacenado PL/SQL.
 

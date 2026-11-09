@@ -73,6 +73,7 @@ Archivo: pom.xml
     </dependencies>
 
 </project>
+```
 
 5. Script de Oracle Database 19c
 Crea la carpeta sql y dentro el archivo script_oracle.sql. Ejecuta el script conectado con el esquema que utilizará la aplicación.

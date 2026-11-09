@@ -29,7 +29,6 @@ Importante: cada ejecución inserta nuevamente los 49 nombres. Si ejecutas el pr
 - Servicio Oracle disponible. En este ejemplo se utiliza localhost:1521/orcl.
 
 3. Estructura del proyecto
-```
 
 Arreglo49NombresOracle19c/
 ├── pom.xml
@@ -42,8 +41,6 @@ Arreglo49NombresOracle19c/
             │   └── ConexionOracle.java
             └── main/
                 └── Main.java
-
-```
 
 4. Configuración de Maven
 Archivo: pom.xml
